@@ -1,0 +1,96 @@
+.wrapper{
+	width: 970px;
+	margin: 0 auto;
+	background-color: lightgoldenrodyellow;
+	padding-bottom: 20px;
+}
+p{ 
+	width: 45px;
+	min-height: 50px;
+	margin-top: 0;
+	margin-bottom: 1px;
+	font-size: 13px;
+	display: inline-block;
+	text-align: center;
+	border: 1px solid black;
+}
+pre{ 
+	width: 45px;
+	font-size: 15px;
+	min-height: 25px;
+	display: inline-block;
+	position: relative;
+	text-align: center;
+	margin-left: 4px;
+	color: red;
+}
+p span{
+	color: rgb(88, 37, 240);
+	display: block;
+	font-weight: bold;
+	font-size: 17px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.alkali{
+	width: 150px;
+	vertical-align: bottom;
+	display: inline-block;
+}
+	.guide_number{
+		width: 45px;
+		color: black;
+		text-align: center;
+		display: inline-block;
+	}
+	.alkali_one, .alkali_two{
+		width: 45px;
+		display: inline-block;
+		vertical-align: bottom;
+		margin-left: 3px;
+		background-color: rgb(70, 146, 213);
+	}
+.t_elements{
+	width: 490px;
+	margin-left: 5px;
+	margin-bottom: 0;
+	display: inline-block;
+}
+	.t_elements .t1, .t2, .t3, .t4, .t5, .t6, .t7, .t8, .t9, .t0{
+		width: 45px;
+		background-color: darkcyan;
+		display: inline-block;
+	}
+.noble_gas{
+	width: 300px;
+	margin-bottom: 0;
+	display: inline-block;
+	}
+	.noble_gas .n1, .n2, .n3, .n4, .n5, .n6{
+		width: 45px;
+		background-color: lightcoral;
+		display: inline-block;
+	}
+	.inner_elements{
+	width: 720px;
+	min-height: 110px;
+	display: inline-block;
+	margin-top: 20px;
+	margin-left: 158px;
+}
+	.inner_elements p{
+		background-color: rgb(42, 160, 70);
+	}
+	.inner_elements .ast{
+		color: red;
+	}
+	.noids{
+		width: 120px;
+		display: block;
+		margin-left: 40px;
+		margin-top: -115px;
+		position: relative;
+		color: red;
+	}
+	h6{
+		display: inline-block;
+	}
